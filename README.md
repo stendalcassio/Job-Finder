@@ -5,6 +5,8 @@ In this project I used the technologies: html, css, bootstrap, javascript, node 
 I learned several new concepts such as using handlebars, 
 also using postman to test the api and integration with the frontend.
 
+In this project, participating in job searches based on the name of the vacancy, we were also able to create a new job opportunity that is automatically rendered on the home page and listed one by one in descending order of creation.
+
 *the whole project is responsive for different screen types*
 
 ![image](https://user-images.githubusercontent.com/61715137/234285212-2966083f-b92f-4b1a-8041-09ef60d4c949.png)
