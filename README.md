@@ -1,7 +1,7 @@
 # Job-Finder
 
 
-In this project I used the technologies: html, css, bootstrap, javascript, node in the backend and also the sqlite database. 
+In this project I used the technologies: html, css, bootstrap, javascript, node in the backend with express and also the sqlite database. 
 I learned several new concepts such as using handlebars, 
 also using postman to test the api and integration with the frontend.
 
